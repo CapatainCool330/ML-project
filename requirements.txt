@@ -2,5 +2,4 @@ pandas
 flask
 scikit-learn
 numpy
-pickle
 gunicorn==19.7.1
